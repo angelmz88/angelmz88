@@ -2,6 +2,7 @@
 <h3 align="center">About me</h3>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/angelmz88">
 <p>Hi, I'm a passionate software backend developer from Mexico. I enjoy making code for new solutions.</p>
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/angelmz88](https://github.com/angelmz88)
