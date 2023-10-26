@@ -12,6 +12,7 @@
 - 📫 How to reach me **joseangelmarquez080802@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 <p align="left">
 <a href="https://linkedin.com/in/jose-angel-marquez-martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose angel marquez martinez" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/joseangelmarque1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joseangelmarque1" height="30" width="40" /></a>
@@ -24,3 +25,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmz88&langs_count=8&theme=holi) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmz88&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
