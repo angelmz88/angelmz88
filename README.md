@@ -1,4 +1,5 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=500&color=A0B8F7&background=000000&center=true&vCenter=true&random=false&width=810&height=100&lines=Hi👋%2C+I'm+Angel+Marquez;Backend+Developer" alt="Typing SVG" /></a></h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=500&color=A0B8F7&background=000000&center=true&vCenter=true&random=false&width=810&height=100&lines=Hi👋%2C+I'm+Angel+Marquez;Backend+Developer" alt="Typing SVG" /></a></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h3 align="center">About me</h3>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/angelmz88">
 <p>Hi, I'm a passionate software backend developer from Mexico. I enjoy making code for new solutions.</p>
