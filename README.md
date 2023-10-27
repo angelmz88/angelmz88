@@ -17,6 +17,7 @@
 <a href="https://www.hackerrank.com/joseangelmarque1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joseangelmarque1" height="30" width="40" /></a>
 <a href="https://www.discordapp.com/users/666830064041590788" target="blank"><img align=center src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://informaticesmx.blogspot.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
